@@ -37,7 +37,7 @@ const TopDestination = () => {
                     className="mySwiper"
                 >
 
-                    <SwiperSlide className='pb-5'>
+                    <SwiperSlide className='pb-5 w-72'>
                         <div className='shadow-md rounded-lg'>
                             <div className='p-3 h-3/4'><img src="https://i.ibb.co/2qmQxsK/India-1.jpg" alt="" /></div>
                             <div className='text-center'>
@@ -47,7 +47,7 @@ const TopDestination = () => {
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide className='pb-5'>
+                    <SwiperSlide className='pb-5 w-72'>
                         <div className='shadow-md rounded-lg'>
                             <div className='p-3 h-3/4'><img src="https://i.ibb.co/z6tfKqF/swizerland.jpg" alt="" /></div>
                             <div className='text-center'>
@@ -57,7 +57,7 @@ const TopDestination = () => {
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide className='pb-5'>
+                    <SwiperSlide className='pb-5 w-72'>
                         <div className='shadow-md rounded-lg'>
                             <div className='p-3 h-3/4'><img src="https://i.ibb.co/Rp9WZRb/England-1.png" alt="" /></div>
                             <div className='text-center'>
@@ -67,7 +67,7 @@ const TopDestination = () => {
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide className='pb-5'>
+                    <SwiperSlide className='pb-5 w-72'>
                         <div className='shadow-md rounded-lg'>
                             <div className='p-3 h-3/4'><img src="https://i.ibb.co/Y31m0nc/Newzealand-1.png" alt="" /></div>
                             <div className='text-center'>
@@ -77,7 +77,7 @@ const TopDestination = () => {
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide className='pb-5'>
+                    <SwiperSlide className='pb-5 w-72'>
                         <div className='shadow-md rounded-lg'>
                             <div className='p-3 h-3/4'><img src="https://i.ibb.co/58zgwWt/Italy.jpg" alt="" /></div>
                             <div className='text-center'>
@@ -87,7 +87,7 @@ const TopDestination = () => {
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide className='pb-5'>
+                    <SwiperSlide className='pb-5 w-72'>
                         <div className='shadow-md rounded-lg'>
                             <div className='p-3 h-3/4'><img src="https://i.ibb.co/1T1Yy4W/Bali.jpg" alt="" /></div>
                             <div className='text-center'>
